@@ -1,0 +1,186 @@
+body
+{
+   margin: 0;
+   background:   #f1ede6;              /*  green;  */
+   position:     relative;
+}
+
+.centerPage 
+{ 
+	width:        1200px; 
+	height:        950px;
+	
+	margin:       auto;
+	background:   #f1ede6;      /* cyan; */
+	position:     absolute;
+	left:         18%;
+	top:          0px;
+}
+
+
+
+
+.headerToTheLeft              
+ { 
+    position:     absolute;
+	left:         0px;
+	top:          0px;
+	
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+
+	height:         64px;
+	/* width:          223px; */
+    width:          19%;
+     
+    padding-top:    20px;
+	padding-bottom: 1px;
+	padding-left:   20px;
+    padding-right:  50px;
+
+	border-width:    1px;
+	border-style:    solid;
+    border-color:    #f1ede6;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    50px;
+    font-weight:  100;   
+}
+
+
+.mainLeft
+{ 
+	width:        25%;
+    height:       835px;   /* 950 - 110 = 840 */
+    margin:       auto;
+	background:   #f1ede6;      /* purple; */
+ 	color:        white;
+	position:     absolute;
+	left:         0px;
+	top:          110px;
+}
+
+.mainLeftFirstBox
+{ 
+	width:        96%;
+	height:       33px;
+    margin:       auto;
+	background:   #dfd5c4;         /* gray; */
+	color:        #000000;
+	position:     absolute;
+	right:        0px;
+	top:          0px;
+    text-align:   right;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    20px;
+    font-weight:   100;   
+
+    padding-top:   10px;
+    padding-right: 10px;
+}
+
+.mainLeftSecondBox
+{ 
+	width:        95%;
+	height:       63px;
+    margin:       auto;
+	background:   #dfd5c4;         /* gray; */
+	color:        black;
+	position:     absolute;
+	right:        0px;
+	top:          46px;
+	text-align:   center;
+}
+
+.mainLeftThirdBox
+{ 
+	width:        87%;
+	height:       125px;
+    margin:       auto;
+	background:   #dfd5c4;     /* gray;  */
+	color:        #142850;     /* black; */
+	position:     absolute;
+	right:        0px;
+	top:          337px;       /*  210px;  */
+	
+    padding-left: 0px;
+}
+
+
+.mainLeftThirdBoxTextArea
+{ 
+	width:        95%;
+	height:       118px;
+    margin:       auto;
+	background:   #dfd5c4;           /* pink; */
+	color:        #142850;   
+	position:     absolute;
+	left:         10px;
+	top:          0px;
+	text-align:   center;
+
+    font-family:  Arial,sans-serif;  
+    font-size:    15px;
+    font-weight:  100;  
+    padding-left: 0px;
+    
+    text-align:   left;
+    padding-top:  6px;
+    padding-left: 6px;
+}
+
+.mainLeftFourthBox
+{
+	width:        67%;
+	height:       54px;
+    margin:       auto;
+	background:   #dfd5c4;   /* gray;  */
+	color:        black;
+	position:     absolute;
+	right:          0px;
+	top:          465px;          /* 338px; */
+	text-align:   right;
+
+	padding-top: 5px;
+}
+
+.searchButtonPosition
+{ 
+   
+	width:        34%;
+	height:       54px;
+    margin:       auto;
+    background:    #dfd5c4;     /*  pink;  */
+	
+
+	
+	position:     absolute;
+	right:        -3px;
+	top:          0px;
+	text-align:   center;
+	
+	padding-top:  7px;
+}
+
+.searchTextPosition
+{ 
+   
+	width:        67%;
+	height:       47px;
+    margin:       auto;
+	background:   #dfd5c4;     /*  yellow;  */ 
+	position:     absolute;
+	left:         0px;
+	top:          0px;
+	text-align:   center;
+	
+	padding-top:  15px;
+}
+
+.searchTextInput
+{
+   width:   90%; 
+   height: 30px;
+}
+
+

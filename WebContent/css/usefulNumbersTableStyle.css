@@ -1,0 +1,47 @@
+#usefulNumbersTable  
+{
+    font-family: Arial; 
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#usefulNumbersTable  td
+{
+    /* font-size: 1em; */
+	font-size: 14px;
+    /* border: 1px solid #ffffff;   */
+	border-right: 1px solid #ffffff;
+   
+	padding-top:      14px;
+    padding-right:    5px;
+    padding-bottom:   14px;
+    padding-left:     20px;
+}
+
+#usefulNumbersTable tr
+{
+    color:            #666666;              
+    background-color: #F8F7F3;    /* dark gray */
+}
+
+#usefulNumbersTable  tr.alt
+{
+    color:            #666666;               
+    background-color: #F3F0E9;   /* light gray */
+}
+
+#usefulNumbersTable  td.firstCol
+{
+     width:29%
+}
+
+#usefulNumbersTable  td.secondCol
+{
+     width:71%
+}
+
+#usefulNumbersTable tr:hover
+{          
+    background-color: white;    
+}
+

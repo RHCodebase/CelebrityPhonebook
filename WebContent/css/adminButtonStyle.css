@@ -1,0 +1,199 @@
+/* http://www.bestcssbuttongenerator.com/ */
+
+.addAStaffMemberButton 
+{
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2587ab), color-stop(1, #2587ab));
+	background:-moz-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:-webkit-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:-o-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:-ms-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:linear-gradient(to bottom, #2587ab 5%, #2587ab 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2587ab', endColorstr='#2587ab',GradientType=0);
+	background-color:#2587ab;
+	-moz-border-radius:22px;
+	-webkit-border-radius:22px;
+	border-radius:22px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:11px 13px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2587ab;
+}
+.addAStaffMemberButton:hover 
+{
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2587ab), color-stop(1, #2587ab));
+	background:-moz-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:-webkit-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:-o-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:-ms-linear-gradient(top, #2587ab 5%, #2587ab 100%);
+	background:linear-gradient(to bottom, #2587ab 5%, #2587ab 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2587ab', endColorstr='#2587ab',GradientType=0);
+	background-color:#2587ab;
+}
+.addAStaffMemberButton:active 
+{
+	position:relative;
+	top:1px;
+}
+/**************************************************************************************************************************/
+.adminOptionButton 
+{
+	background-color:#2587ab;
+	-moz-border-radius:22px;
+	-webkit-border-radius:22px;
+	border-radius:22px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:11px 13px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2587ab;
+}
+.adminOptionButton:hover 
+{
+	background-color:#2587ab;
+}
+.adminOptionButton:active 
+{
+	position:relative;
+	top:1px;
+}
+/**************************************************************************************************************************/
+.adminModeheader
+{ 
+	width:          100%;
+	height:       110px;
+    margin:        auto;
+
+	position:     absolute;
+	left:          0%;
+	top:          -110px;
+
+	background-color:  white; /* orange; */
+	color: rgb(37, 154, 187);    
+
+	border-width:    0px;
+	border-style:    solid;
+    border-color:    pink;
+    
+   
+}
+.adminOptionHeaderText
+{
+	width:        98%;
+	height:       40px;
+    margin:       auto;
+	background:   white;               /* #dfd5c4;   gray;  */
+	color:        #2587ab;
+	position:     absolute;
+	left:         10px;
+	top:          5px;
+	text-align: center;
+
+	padding-top: 5px;
+	
+	font-family:  Arial,sans-serif;  
+    font-size:    20px;
+    font-weight:  lighter; /* 100; */  
+}	
+
+.adminOptionAddAStaffMember
+{
+	width:        30%;
+	height:       55px;
+    margin:       auto;
+	background:   white;               /* #dfd5c4;   gray;  */
+	color:        black;
+	position:     absolute;
+	left:         50px;
+	top:          35px;
+	
+
+	padding-top: 5px;
+}			       
+ 	
+ .adminOptionEditAStaffMember
+{
+	width:        30%;
+	height:       55px;
+    margin:       auto;
+	background:   white;               /* #dfd5c4;   gray;  */
+	color:        black;
+	position:     absolute;
+	left:         270px;
+	top:          35px;
+
+
+	padding-top: 5px;
+}		
+
+ .adminOptionRemoveAStaffMember
+{
+	width:        30%;
+	height:       55px;
+    margin:       auto;
+	background:   white;               /* #dfd5c4;   gray;  */
+	color:        black;
+	position:     absolute;
+	left:         495px;
+	top:          35px;
+
+	padding-top: 5px;
+}	
+
+
+ .adminOptionLogout
+{
+	width:        10%;
+	height:       55px;
+    margin:       auto;
+	background:   white;               /* #dfd5c4;   gray;  */
+	color:        black;
+	position:     absolute;
+	left:         760px;
+	top:           35px;
+	
+
+	padding-top: 5px;
+}
+
+ .adminOptionEdit
+{
+	width:        30%;
+	height:       40px;
+    margin:       auto;
+	background:   white;               /* #dfd5c4;   gray;  */
+	color:        black;
+	position:     absolute;
+	left:         230px;
+	top:          25px;
+	text-align:   right;
+
+	padding-top: 5px;
+}
+
+ .adminOptionRemove
+{
+	width:        30%;
+	height:       40px;
+    margin:       auto;
+	background:   white;               /* #dfd5c4;   gray;  */
+	color:        black;
+	position:     absolute;
+	left:         230px;
+	top:          25px;
+	text-align:   right;
+
+	padding-top: 5px;
+}
+
+
+
+
+ 		
+ 			       

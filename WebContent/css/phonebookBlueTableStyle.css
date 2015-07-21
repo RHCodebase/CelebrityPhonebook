@@ -1,0 +1,92 @@
+#phonebookBlueTable 
+{
+    font-family: Arial; 
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#phonebookBlueTable th 
+{
+    font-size:          16px;         
+    text-align:         left;
+	padding-top:      8px;
+    padding-right:    8px;
+    padding-bottom:   9px;
+    padding-left:     12px;
+    background-color:   #2587ab;   
+    color:              #ffffff;    
+}
+
+#phonebookBlueTable td
+{
+    font-size:             13px;
+    border:                0px solid #98bf21;
+	border-bottom-style:   solid;
+	border-bottom-color:   #cccccc;
+	border-bottom-width:   1px;
+    padding-top:          12px;
+    padding-right:        12px;
+    padding-bottom:      12px;
+    padding-left:         18px;
+}
+
+#phonebookBlueTable tr 
+{   
+    background-color: #ffffff;     
+	color:            #001640;
+}
+
+#phonebookBlueTable tr.alt
+{   
+    background-color: #f1f5fa;     
+	color:            #001640;
+}
+
+
+#phonebookBlueTable tr:hover
+{          
+    background-color: #ffffff;    
+}
+
+/*******************************************************************************************/
+#phonebookBlueTable td.phonebookByNameFirstCol
+{   
+      width:30%;
+}
+
+#phonebookBlueTable td.phonebookByNameSecondCol
+{   
+      width:30%;
+}
+
+#phonebookBlueTable td.phonebookByNameThirdCol
+{   
+      width:20%;
+}
+
+#phonebookBlueTable td.phonebookByNameFourthCol
+{   
+      width:20%;
+}
+
+/*******************************************************************************************/
+#phonebookBlueTable td.phonebookByDepartFirstCol
+{   
+      width:30%;
+}
+
+#phonebookBlueTable td.phonebookByDepartSecondCol
+{   
+      width:30%;
+}
+
+#phonebookBlueTable td.phonebookByDepartThirdCol
+{   
+      width:20%;
+}
+
+#phonebookBlueTable td.phonebookByDepartFourthCol
+{   
+      width:20%;
+}
+

@@ -1,0 +1,305 @@
+.mainRight
+{ 
+	width:        75%;
+	height:       835px;    /* 950 - 110 = 840 */ 
+    margin:       auto;
+	background:   white;         /* white; */
+	color:        black;
+	position:     absolute;
+	left:         25%;
+	/* top:          110px; */
+	 top:          110px;
+}
+
+.mainRightCenterSection
+{
+    width:        90%;
+	height:       805px;    /* 950 - 135 = 815 */
+    margin:       auto;
+	background:   white;         /*  yellow;    */
+	color:        black;
+	position:     absolute;
+	left:         5%;
+	top:          25px;
+}
+
+.mainRightCenterSectionTop 
+{
+    width:        97%;
+	height:       500px;    /* 950 - 135 = 815, 815 / 2 = around 407 */
+    margin:       auto;
+	background:   white; 
+	color:        black;
+	position:     absolute;
+	left:         1%;
+	top:          2px;
+}
+
+.mainRightCenterSectionBottom
+{
+    width:        140%;
+	height:       315px;    /* 950 - 135 = 815 */
+    margin:       auto;
+	background:   #f1ede6;   /* pink;   white;  */
+	color:        black;
+	position:     absolute;
+	left:         -20%;
+	top:          500px;
+}
+
+
+.mainRightHeaderSection    /*  was called mainRightCenterPhonebookBlueTable */
+{
+		    width:         100%;
+			height:        100px;    
+		    margin:        auto;
+			background:    white; /*  yellow */;        
+			color:         black;
+			position:      absolute;
+			left:          0%;
+			top:           1px;
+}
+
+/*********************************************************************************************************/
+.mainRightHeaderSectionSearchResultsText
+{
+    width:        90%;
+	height:       50px;
+    margin:       auto;
+	background:   white;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         1%;
+	top:          30px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    40px;
+    font-weight:  lighter; /* normal;  100; */  
+}
+
+.mainRightHeaderSectionDepartmentText
+{
+    width:        60%;
+	height:       50px;
+    margin:       auto;
+	background:   white;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         1%;
+	top:          30px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    40px;
+    font-weight:  lighter; /* normal;  100; */  
+}
+
+.mainRightHeaderSectionAdminOptionsText
+{
+	 width:        100%;
+	 height:       90px;
+     margin:       auto;
+	 background:   white;             
+	 color:        rgb(37, 154, 187);   
+	 position:     absolute;
+	 left:         0%;
+	 top:          0px;
+
+	 font-family:  Arial,sans-serif;  
+     font-size:    20px;
+     font-weight:  lighter; /* normal;  100; */  
+	
+	
+}
+
+/*###########################  not sure if the style code is still being used    ################################ */
+.mainRightHeaderSectionAdminLoginText
+{
+    width:        50%;
+	height:       50px;
+    margin:       auto;
+	background:   pink;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         25%;
+	top:          20px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    40px;
+    font-weight:  lighter; /* normal;  100; */  
+}
+
+.mainRightBelowHeaderFormSection
+{
+    width:        50%;
+	height:       50px;
+    margin:       auto;
+	background:   pink;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         25%;
+	top:          20px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    40px;
+    font-weight:  lighter; /* normal;  100; */  
+}
+
+/************************************************************************************************************************/
+.mainRightBelowHeaderSection    /*  was called mainRightCenterPhonebookBlueTable */
+{
+		    width:        100%;
+			height:       725px;    
+		    margin:       auto;
+			background:   white; /* gray*/;        
+			color:        #2587ab;
+			position:     absolute;
+			left:         0%;
+			top:          108px;
+			
+			text-align: left;
+
+	        padding-top: 5px;
+	       
+	        font-family:  Arial,sans-serif;  
+            font-size:    25px;
+            font-weight:  lighter; /* 100; */  
+            
+      /*      overflow-y:  auto;   */		    
+}
+
+.mainRightCenterSectionForTableResults
+{
+    width:        90%;
+	height:       805px;    /* 950 - 135 = 815 */
+    margin:       auto;
+	background:   white;  /* white;  */
+	color:        black;
+	position:     absolute;
+	left:         5%;
+	top:          0px;
+	
+    overflow-y:  auto;                 /* visible |  hidden; */   
+    
+}
+
+.adminUsernameLabel
+{
+    width:        25%;
+	height:       40px;
+    margin:       auto;
+	background:   white;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         25%;
+	top:          75px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    40px;
+    font-weight:  lighter; /* normal;  100; */  
+}
+
+.adminUsernameText
+{
+    width:        30%;
+	height:       40px;
+    margin:       auto;
+	background:   white;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         50%;
+	top:          70px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    20px;
+    font-weight:  lighter; /* normal;  100; */
+    
+    padding-top:  15px;  
+    text-align:   center;
+}
+
+.adminPasswordLabel
+{
+    width:        25%;
+	height:       40px;
+    margin:       auto;
+	background:   white;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         25%;
+	top:          133px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    40px;
+    font-weight:  lighter; /* normal;  100; */  
+}
+
+.adminPasswordText
+{
+    width:        30%;
+	height:       40px;
+    margin:       auto;
+	background:   white;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         50%;
+	top:          125px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    20px;
+    font-weight:  lighter; /* normal;  100; */
+    
+    padding-top:  15px;  
+    text-align:   center;
+}
+
+
+.adminLoginTextInput
+{
+   width:   90%; 
+   height: 30px;
+}
+
+.adminSubmitButton
+{
+   width:   70%; 
+   height:  30px;
+}
+
+
+.adminSubmitButtonDiv
+{
+    width:        20%;
+	height:       25px;
+    margin:       auto;
+	background:   white;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         55%;
+	top:          185px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    20px;
+    font-weight:  lighter; /* normal;  100; */
+    
+    padding-top:  15px;  
+    text-align:   center;
+}
+
+.adminResetButtonDiv
+{
+    width:        20%;
+	height:       25px;
+    margin:       auto;
+	background:   blue;  /*  white;  */
+	color:        rgb(37, 154, 187);    /* #2587ab; */
+	position:     absolute;
+	left:         70%;
+	top:          195px;
+
+	font-family:  Arial,sans-serif;  
+    font-size:    20px;
+    font-weight:  lighter; /* normal;  100; */
+    
+    padding-top:  15px;  
+    text-align:   center;
+}
